@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.nameBox{
+    width: 100%;
+    height: 300px;
+    margin:0;
+    text-align: center;
+    
+}
+
+.name{
+    margin: 10%;    
+    font-family: 'Kaushan Script', cursive;
+    font-size: 80px;
+}
+
+.name:hover{
+    margin: 10%;    
+    font-family: 'Kaushan Script', cursive;
+    font-size: 80px;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+}
+
+.h1:hover{
+    background-color: black;
+    color: white;
+    font-size: 100px;
+}

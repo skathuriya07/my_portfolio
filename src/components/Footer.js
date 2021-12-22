@@ -13,7 +13,7 @@ function Name(){
             <img className="picture" src={"https://media-exp1.licdn.com/dms/image/C5603AQFrjdXP0RgpMQ/profile-displayphoto-shrink_800_800/0/1611948498457?e=1645660800&v=beta&t=c3MIrGpeLEcHDGZqKyXgA48D6AHccQVBo2Vbm4dSfBw"} alt="BigCo Inc. logo"/>
 
                 Hi, I am Shreya Kathuriya!<br/><br/>   I am currently in my final semester of Software Engineering (honours).<br/> 
-                I was born in India, completed my high school there and now am studying in at Monash University.<br/>  
+                I was born in India, completed my high school there and now am studying at Monash University.<br/>  
                 I am eager to see where life takes me next!<br/><br/>  
                 Apart from coding, I like engaging in activities like painting, playing the piano, 
                 graphology, making videos and clicking pictures!
